@@ -1,1 +1,0 @@
-It's very probable that you've done something that corrupted the malloc data structure. This could be by reusing a freed pointer, overrunning the data you allocated (and thereby mashing the little header malloc uses) or accidentally freeing a pointer that doesn't point to the head of malloc-ed data.
