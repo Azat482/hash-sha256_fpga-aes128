@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1637840289 source:/home/aza88/DEV/FPGA/AES_C_file-crypter/AES.c
+	"AES.h"
+
+1637838612 /home/aza88/DEV/FPGA/AES_C_file-crypter/AES.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1637845583 source:/home/aza88/DEV/FPGA/AES_C_file-crypter/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AES.h"
+	<stdbool.h>
+
+1637859228 source:/home/aza88/DEV/diplom_projects/AES_C_file-crypter/AES.c
+	"AES.h"
+
+1637859512 /home/aza88/DEV/diplom_projects/AES_C_file-crypter/AES.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1637859260 source:/home/aza88/DEV/diplom_projects/AES_C_file-crypter/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"AES.h"
+
+1637859228 source:c:\users\ss84_ttr\desktop\diplom\dev\diplom_projects\aes_c_file-crypter\aes.c
+	"AES.h"
+
+1644772168 c:\users\ss84_ttr\desktop\diplom\dev\diplom_projects\aes_c_file-crypter\aes.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1637859260 source:c:\users\ss84_ttr\desktop\diplom\dev\diplom_projects\aes_c_file-crypter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"AES.h"
+

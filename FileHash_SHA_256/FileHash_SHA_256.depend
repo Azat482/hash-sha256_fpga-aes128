@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1644016678 source:/home/aza88/DEV/diplom_projects/FileHash_SHA_256/SHA_256.cpp
+	"SHA_256.h"
+
+1644016235 /home/aza88/DEV/diplom_projects/FileHash_SHA_256/SHA_256.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<cstdlib>
+
+1644016624 source:/home/aza88/DEV/diplom_projects/FileHash_SHA_256/main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstddef>
+	"SHA_256.h"
+

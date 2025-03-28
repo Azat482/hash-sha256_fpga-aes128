@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1636569432 source:e:\my programms\fpga\aes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AES.h"
+
+1635012927 
+
+1635511339 e:\my programms\fpga\aes\aes.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1636569342 source:e:\my programms\fpga\aes\aes.c
+	"AES.h"
+
+1635107358 source:d:\programming\aes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AES.h"
+
+1635106577 d:\programming\aes\aes.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1635107162 source:d:\programming\aes\aes.c
+	"AES.h"
+
+1635016221 source:/media/aza/CE14F4AF14F49BA1/programming/AES/main.c
+	<stdio.h>
+	<stdlib.h>
+	"AES.h"
+
+1635090469 /media/aza/CE14F4AF14F49BA1/programming/AES/AES.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1635090469 source:/media/aza/CE14F4AF14F49BA1/programming/AES/AES.c
+	"AES.h"
+
+1635337678 source:f:\programming\aes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AES.h"
+
+1635364146 f:\programming\aes\aes.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1635364101 source:f:\programming\aes\aes.c
+	"AES.h"
+
+1637064220 source:/home/aza88/DEV/FPGA/AES/AES.c
+	"AES.h"
+
+1636893894 /home/aza88/DEV/FPGA/AES/AES.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1636569432 source:/home/aza88/DEV/FPGA/AES/main.c
+	<stdio.h>
+	<stdlib.h>
+	"AES.h"
+
+1637064220 source:c:\users\ss84_ttr\desktop\diplom\dev\diplom_projects\aes\aes.c
+	"AES.h"
+
+1644781084 c:\users\ss84_ttr\desktop\diplom\dev\diplom_projects\aes\aes.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1651149723 source:c:\users\ss84_ttr\desktop\diplom\dev\diplom_projects\aes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AES.h"
+	<time.h>
+

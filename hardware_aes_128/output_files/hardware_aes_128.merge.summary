@@ -1,0 +1,16 @@
+Partition Merge Status : Successful - Wed May 11 18:33:00 2022
+Quartus Prime Version : 15.1.0 Build 185 10/21/2015 SJ Standard Edition
+Revision Name : hardware_aes_128
+Top-level Entity Name : main
+Family : MAX 10
+Total logic elements : 21,719
+    Total combinational functions : 18,664
+    Dedicated logic registers : 4,900
+Total registers : 4900
+Total pins : 233
+Total virtual pins : 0
+Total memory bits : 19,072
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sat May 21 18:32:41 2022
+Quartus Prime Version : 15.1.0 Build 185 10/21/2015 SJ Standard Edition
+Revision Name : hardware_aes_128
+Top-level Entity Name : main
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Preliminary
+Total logic elements : 20,648 / 49,760 ( 41 % )
+    Total combinational functions : 18,689 / 49,760 ( 38 % )
+    Dedicated logic registers : 4,996 / 49,760 ( 10 % )
+Total registers : 4996
+Total pins : 233 / 360 ( 65 % )
+Total virtual pins : 0
+Total memory bits : 20,096 / 1,677,312 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

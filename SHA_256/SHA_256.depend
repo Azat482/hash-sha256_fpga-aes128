@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1643990316 source:e:\my programms\fpga\sha_256\sha_256.cpp
+	"SHA_256.h"
+
+1643984501 "
+
+1634216792 e:\my programms\fpga\sha_256\sha_256.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<cstdlib>
+
+1634216792 
+
+1643984501 source:e:\my programms\fpga\sha_256\main.cpp
+	<iostream>
+	"SHA_256.h"
+
+1643984501 source:/home/aza88/DEV/SHA_256/main.cpp
+	<iostream>
+	"SHA_256.h"
+
+1634216792 /home/aza88/DEV/SHA_256/SHA_256.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<cstdlib>
+
+1644003711 source:/home/aza88/DEV/SHA_256/SHA_256.cpp
+	"SHA_256.h"
+
+1643984501 source:/home/aza88/DEV/diplom_projects/SHA_256/main.cpp
+	<iostream>
+	"SHA_256.h"
+
+1634216792 /home/aza88/DEV/diplom_projects/SHA_256/SHA_256.h
+	<math.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<cstdlib>
+
+1644004168 source:/home/aza88/DEV/diplom_projects/SHA_256/SHA_256.cpp
+	"SHA_256.h"
+

@@ -1,0 +1,67 @@
+# Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, the Altera Quartus Prime License Agreement,
+# the Altera MegaCore Function License Agreement, or other 
+# applicable license agreement, including, without limitation, 
+# that your use is for the sole purpose of programming logic 
+# devices manufactured by Altera and sold by Altera or its 
+# authorized distributors.  Please refer to the applicable 
+# agreement for further details.
+
+# Quartus Prime Version 15.1.0 Build 185 10/21/2015 SJ Standard Edition
+# File: C:\Users\SS84_ttr\Desktop\Diplom\DEV\diplom_projects\hardware_aes_128\pin_hardware.csv
+# Generated on: Thu Mar 17 23:14:47 2022
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+GPIO[35],Bidir,PIN_AA2,3,B3_N0,PIN_AA2,3.3-V LVTTL,,,,,
+GPIO[34],Bidir,PIN_AB2,3,B3_N0,PIN_AB2,3.3-V LVTTL,,,,,
+GPIO[33],Bidir,PIN_Y3,3,B3_N0,PIN_Y3,3.3-V LVTTL,,,,,
+GPIO[32],Bidir,PIN_AB3,3,B3_N0,PIN_AB3,3.3-V LVTTL,,,,,
+GPIO[31],Bidir,PIN_Y4,3,B3_N0,PIN_Y4,3.3-V LVTTL,,,,,
+GPIO[30],Bidir,PIN_AA5,3,B3_N0,PIN_AA5,3.3-V LVTTL,,,,,
+GPIO[29],Bidir,PIN_Y5,3,B3_N0,PIN_Y5,3.3-V LVTTL,,,,,
+GPIO[28],Bidir,PIN_AA6,3,B3_N0,PIN_AA6,3.3-V LVTTL,,,,,
+GPIO[27],Bidir,PIN_Y6,3,B3_N0,PIN_Y6,3.3-V LVTTL,,,,,
+GPIO[26],Bidir,PIN_AA7,3,B3_N0,PIN_AA7,3.3-V LVTTL,,,,,
+GPIO[25],Bidir,PIN_Y7,3,B3_N0,PIN_Y7,3.3-V LVTTL,,,,,
+GPIO[24],Bidir,PIN_AA8,3,B3_N0,PIN_AA8,3.3-V LVTTL,,,,,
+GPIO[23],Bidir,PIN_Y8,3,B3_N0,PIN_Y8,3.3-V LVTTL,,,,,
+GPIO[22],Bidir,PIN_AA9,3,B3_N0,PIN_AA9,3.3-V LVTTL,,,,,
+GPIO[21],Bidir,PIN_AA10,3,B3_N0,PIN_AA10,3.3-V LVTTL,,,,,
+GPIO[20],Bidir,PIN_AB10,4,B4_N0,PIN_AB10,3.3-V LVTTL,,,,,
+GPIO[19],Bidir,PIN_W11,4,B4_N0,PIN_W11,3.3-V LVTTL,,,,,
+GPIO[18],Bidir,PIN_AB11,4,B4_N0,PIN_AB11,3.3-V LVTTL,,,,,
+GPIO[17],Bidir,PIN_Y11,4,B4_N0,PIN_Y11,3.3-V LVTTL,,,,,
+GPIO[16],Bidir,PIN_AB12,4,B4_N0,PIN_AB12,3.3-V LVTTL,,,,,
+GPIO[15],Bidir,PIN_AB13,4,B4_N0,PIN_AB13,3.3-V LVTTL,,,,,
+GPIO[14],Bidir,PIN_W12,4,B4_N0,PIN_W12,3.3-V LVTTL,,,,,
+GPIO[13],Bidir,PIN_W13,4,B4_N0,PIN_W13,3.3-V LVTTL,,,,,
+GPIO[12],Bidir,PIN_AA14,4,B4_N0,PIN_AA14,3.3-V LVTTL,,,,,
+GPIO[11],Bidir,PIN_AA15,4,B4_N0,PIN_AA15,3.3-V LVTTL,,,,,
+GPIO[10],Bidir,PIN_W5,3,B3_N0,PIN_W5,3.3-V LVTTL,,,,,
+GPIO[9],Bidir,PIN_V5,3,B3_N0,PIN_V5,3.3-V LVTTL,,,,,
+GPIO[8],Bidir,PIN_W6,3,B3_N0,PIN_W6,3.3-V LVTTL,,,,,
+GPIO[7],Bidir,PIN_W7,3,B3_N0,PIN_W7,3.3-V LVTTL,,,,,
+GPIO[6],Bidir,PIN_V7,3,B3_N0,PIN_V7,3.3-V LVTTL,,,,,
+GPIO[5],Bidir,PIN_W8,3,B3_N0,PIN_W8,3.3-V LVTTL,,,,,
+GPIO[4],Bidir,PIN_V8,3,B3_N0,PIN_V8,3.3-V LVTTL,,,,,
+GPIO[3],Bidir,PIN_W9,3,B3_N0,PIN_W9,3.3-V LVTTL,,,,,
+GPIO[2],Bidir,PIN_V9,3,B3_N0,PIN_V9,3.3-V LVTTL,,,,,
+GPIO[1],Bidir,PIN_W10,3,B3_N0,PIN_W10,3.3-V LVTTL,,,,,
+GPIO[0],Bidir,PIN_V10,3,B3_N0,PIN_V10,3.3-V LVTTL,,,,,
+HEX0[7],Output,PIN_D15,7,B7_N0,PIN_D15,3.3-V LVTTL,,,,,
+HEX0[6],Output,PIN_C17,7,B7_N0,PIN_C17,3.3-V LVTTL,,,,,
+HEX0[5],Output,PIN_D17,7,B7_N0,PIN_D17,3.3-V LVTTL,,,,,
+HEX0[4],Output,PIN_E16,7,B7_N0,PIN_E16,3.3-V LVTTL,,,,,
+HEX0[3],Output,PIN_C16,7,B7_N0,PIN_C16,3.3-V LVTTL,,,,,
+HEX0[2],Output,PIN_C15,7,B7_N0,PIN_C15,3.3-V LVTTL,,,,,
+HEX0[1],Output,PIN_E15,7,B7_N0,PIN_E15,3.3-V LVTTL,,,,,
+HEX0[0],Output,PIN_C14,7,B7_N0,PIN_C14,3.3-V LVTTL,,,,,
+MAX10_CLK1_50,Input,PIN_P11,3,B3_N0,PIN_P11,3.3-V LVTTL,,,,,
