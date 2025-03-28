@@ -1,7 +1,9 @@
-![image](https://github.com/user-attachments/assets/becf7900-91bb-4c97-8b5a-70447dc00b13)
-![image](https://github.com/user-attachments/assets/6b49c6fd-be5f-4afe-92ed-1e2d3ec5eef5)
-![image](https://github.com/user-attachments/assets/0333a5ef-4e29-4d0b-87e7-6859f979bbf5)
-![image](https://github.com/user-attachments/assets/df9b40ae-cfce-4139-9d92-21a528450df8)
+![image](https://github.com/user-attachments/assets/36d2d710-0f21-44f1-9c0c-127c030e0b5a)
+![image](https://github.com/user-attachments/assets/94d057a7-a546-486b-870b-07fd5bcb09bf)
+![image](https://github.com/user-attachments/assets/e597f432-61eb-4715-a472-1c2f9f6f3910)
+![image](https://github.com/user-attachments/assets/63ec7f9d-3110-4998-af2d-baf7501bd40c)
+![image](https://github.com/user-attachments/assets/0e8444f3-ba7a-4409-8f5c-187f30c1f2e8)
+
 
 Проект: Реализация алгоритма AES для шифрования и дешифрования данных
 
